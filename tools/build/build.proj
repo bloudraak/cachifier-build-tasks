@@ -3,9 +3,11 @@
   <Target Name="ValidateSolutionConfiguration" />
   <Target Name="ValidateToolsVersions" />
   <Target Name="ValidateProjects" />        
+  <Target Name="Version" />
   <Target Name="Build" />
-  <Target Name="UnitTest" />
+  <Target Name="Test" />
   <Target Name="Rebuild" />
   <Target Name="Clean" />
+  <Target Name="Package" />
   <Target Name="Publish" />
 </Project>
